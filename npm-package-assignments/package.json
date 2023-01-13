@@ -1,0 +1,17 @@
+{
+  "name": "json_functions",
+  "version": "1.0.0",
+  "description": "read ,overwrite/create ,and append to json file with easy function and tepmlate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Json",
+    "Read jsons",
+    "append into jsons",
+    "create and write into jsons"
+  ],
+  "author": "Omer Shlomo",
+  "license": "ISC"
+}
