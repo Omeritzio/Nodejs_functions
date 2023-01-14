@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://systeminformation.io/assets/logo_inv.png" alt="systeminformation logo" width="102" height="72">
+    <img src="gs://omerprofile-dda24.appspot.com/Logo_2.png"  width="102" height="72">
 </p>
 
 
