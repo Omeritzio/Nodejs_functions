@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://imgur.com/L5g02up"  width="102" height="72">
-</p>
+
+![Alt Text](https://imgur.com/L5g02up)
+
 
 ## JSON Functions that :
 <p align="center">
