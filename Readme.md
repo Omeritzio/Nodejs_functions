@@ -1,7 +1,7 @@
 
   <p align="center">
  
-<img src="npm-package-assignments\assets\Logo_2.png" alt="systeminformation logo" width="102" height="72">
+<img src="npm-package-assignments\assets\Logo_2.png" width="102" height="72">
 
 </p>
   
