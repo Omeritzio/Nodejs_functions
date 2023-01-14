@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="gs://omerprofile-dda24.appspot.com/Logo_2.png"  width="102" height="72">
+    <img src="https://omerprofile-dda24.appspot.com/Logo_2.png"  width="102" height="72">
 </p>
 
 
