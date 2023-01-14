@@ -1,5 +1,9 @@
 
-![Alt Text](https://imgur.com/L5g02up/Logo_2.png)
+<p align="center">
+  <a href="https://systeminformation.io/">
+    <img src="https://systeminformation.io/assets/logo_inv.png" alt="systeminformation logo" width="102" height="72">
+  </a>
+</p>
 
 
 ## JSON Functions that :
